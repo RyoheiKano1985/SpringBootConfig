@@ -1,3 +1,0 @@
-message:
- value: defualt value
- param: ${dx.message.param:default param} 
