@@ -1,0 +1,3 @@
+message:
+ value: prod message
+ param: ${dx.message.param:default param} 
